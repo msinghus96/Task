@@ -1,4 +1,14 @@
 export const SCREEN = {
-  PROFILE: 'PROFILE',
-
+  EDIT_PROFILE: 'EDIT_PROFILE',
+  BOTTOM_TAB: {
+    FEED: 'FEED',
+    CALENDAR: 'CALENDAR',
+    STUDIO: 'STUDIO',
+    MESSAGING: 'MESSAGING',
+    PROFILE: 'PROFILE',
+  },
+  TOP_TAB_STUDIO: {
+    CLASSES: 'CLASSES',
+    TEAMS: 'TEAMS',
+  },
 };
